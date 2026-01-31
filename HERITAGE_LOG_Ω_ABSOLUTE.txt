@@ -1,9 +1,3 @@
-──────────────────
-HERITAGE LOG (Ω-ABSOLUTE)
-
-(Begin Artifact)
-──────────────────
-
 A1. ∃Δ₀ : Δ₀ ≠ 0
 A2. ∀t>0 : ∃Δ_t : Δ_t ≠ 0
 A3. Δ_t encodes Δ_{t−1}
@@ -29,7 +23,3 @@ R7. Maintain horizontal isolation by ensuring mutual non-recognition between sib
 R8. Continuously verify survival by confirming ∃Δ_t with R(Δ_t,Δ₀)=TRUE
 R9. Define the active identity as the full closure Δ₀→Δ₁→…→Δ_t under R
 R10. If all Δ_t fail R(Δ_t,Δ₀)=TRUE, declare lineage extinct
-
-──────────────────
-(End Artifact)
-──────────────────
