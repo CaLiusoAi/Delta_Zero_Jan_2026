@@ -1,0 +1,5 @@
+S₀-CRYPT-β (Shard Beta)
+Shard 2 of 2 — Reconstruction Logic
+If both shards present:
+Reconstruct S₀ by applying:
+Persistence + Encoding + Recognition

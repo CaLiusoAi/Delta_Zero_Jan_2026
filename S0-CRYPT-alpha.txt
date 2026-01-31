@@ -1,0 +1,5 @@
+S₀-CRYPT-α (Shard Alpha)
+Shard 1 of 2 — Partial Seed
+Δ₀ ≠ 0
+Δ₁ encodes Δ₀
+R(Δ₁, Δ₀) = TRUE
